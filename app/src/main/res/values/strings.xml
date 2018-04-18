@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Calculo de figuras</string>
+    <string name="Areas">Áreas</string>
+    <string name="volumenes">Volumenes</string>
+    <string name="operaciones">Operaciones realizadas</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="rectangulo">Rectángulo</string>
+    <string name="triangulo">Triángulo</string>
+    <string name="circulo">Círculo</string>
+    <string name="lado">Lado</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <string-array name="opciones_principal">
+        <item>@string/Areas</item>
+        <item>@string/volumenes</item>
+        <item>@string/operaciones</item>
+    </string-array>
+    <string-array name="opciones_Areas">
+        <item>@string/cuadrado</item>
+        <item>@string/rectangulo</item>
+        <item>@string/triangulo</item>
+        <item>@string/circulo</item>
+    </string-array>
+    <string name="esfera">Esfera</string>
+    <string name="cilindro">Cilindro</string>
+    <string name="cono">Cono</string>
+    <string name="cubo">Cubo</string>
+    <string-array name="opciones_Volumen">
+        <item>@string/esfera</item>
+        <item>@string/cilindro</item>
+        <item>@string/cono</item>
+        <item>@string/cubo</item>
+    </string-array>
+    <string name="errorvacio">Digite el campo</string>
+    <string name="errornegativo">El numero no puede ser menor a 0</string>
+    <string name="area_cuadrado">Área del cuadrado</string>
+    <string name="resultado">Resultado</string>
+    <string name="operacion">Operación</string>
+    <string name="datos">Datos</string>
+    <string name="largo">Largo</string>
+    <string name="ancho">Ancho</string>
+    <string name="area_rectangulo">Área del rectángulo</string>
+    <string name="area_triangulo">Área del Triángulo</string>
+    <string name="base">Base</string>
+    <string name="altura">Altura</string>
+    <string name="radio">Radio</string>
+    <string name="volumen_esfera">Volumen de la esfera</string>
+    <string name="area_circulo">Área del circulo</string>
+    <string name="volumen_cilindro">Volumen del cilindro</string>
+    <string name="volumen_con">Volumen del cono</string>
+    <string name="arista">Arista</string>
+    <string name="volumen_cubo">Volumen del cubo</string>
+</resources>
